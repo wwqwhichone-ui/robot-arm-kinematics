@@ -3,7 +3,7 @@
 > A small, tested NumPy library for serial-manipulator kinematics: DH forward kinematics, geometric Jacobians,
 > damped-least-squares inverse kinematics, manipulability and quintic joint trajectories.
 
-![python](https://img.shields.io/badge/python-3.9%2B-3776AB) ![license](https://img.shields.io/badge/license-MIT-green)
+[![CI](https://github.com/wwqwhichone-ui/robot-arm-kinematics/actions/workflows/ci.yml/badge.svg)](https://github.com/wwqwhichone-ui/robot-arm-kinematics/actions/workflows/ci.yml) ![python](https://img.shields.io/badge/python-3.9%2B-3776AB) ![license](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center">
   <img src="assets/planar3r_reach.png" width="46%" alt="Planar 3R arm reaching a target along a quintic trajectory">
